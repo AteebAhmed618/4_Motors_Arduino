@@ -38,7 +38,6 @@ const int GRIPPER_OPEN_ANGLE = 160;
 const int GRIPPER_CLOSED_ANGLE = 20;
 
 // Define the angles for forward, backward, and stopping the drive servos.
-// Note: These values might need to be adjusted based on your robot's wheels/gearing.
 const int SERVO_FORWARD_ANGLE = 180;
 const int SERVO_BACKWARD_ANGLE = 0;
 const int SERVO_STOP_ANGLE = 90;
